@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost Language="C#" Debug="true"
+    CodeBehind="UzenetService.svc.cs"
+    Service="UzenetKuldo.UzenetWCFService" %>
